@@ -1,4 +1,4 @@
-package COMMAND-DESIGN-PATTERN;
+package COMMAND;
 
 import java.util.concurrent.TimeUnit;
 

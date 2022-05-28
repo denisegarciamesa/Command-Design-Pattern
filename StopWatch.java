@@ -1,4 +1,4 @@
-package COMMAND-DESIGN-PATTERN;
+package COMMAND;
 
 public class StopWatch {
     
